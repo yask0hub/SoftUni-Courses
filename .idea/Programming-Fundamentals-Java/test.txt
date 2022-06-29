@@ -1,5 +1,2 @@
-<<<<<<< HEAD
- "Creating with Tortoise…"
-=======
-"Creating with Bash…
->>>>>>> origin/main
+"Creating with Tortoise…"
+"Creating with Bash…"
